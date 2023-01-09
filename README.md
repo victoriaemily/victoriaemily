@@ -2,7 +2,7 @@
 - 🌱 currently, I'm a computer engineering major at texas a&m (gig em!)
 - ⚡ i'm also a student in the Season of KDE project, where I'm focusing on improving website accessibility
 
-###feel free to reach out!
+### feel free to reach out!
 📫: victoria.c6140@gmail.com
 
 

@@ -1,6 +1,6 @@
 ### hi! my name's victoria. 😄
 - 🌱 currently, I'm a computer engineering major at texas a&m (gig em!)
-- ⚡ i'm also a student in the Season of KDE project, where I'm focusing on improving website accessibility
+- ⚡ i'm also a student in the Season of KDE project, a project introducing newcomers into the FoSS community of KDE, where I'm focusing on improving website accessibility
 
 ### feel free to reach out!
 📫: victoria.c6140@gmail.com
